@@ -1,0 +1,2 @@
+### Definition: git status 
+The git status command allows you to check whether your files are untracked, changed, or staged via the terminal. It is useful when you need to confirm the status of the staging area to ensure it aligns with what you intend to commit. You can access the same information through the Jupyter IDE instead of the terminal by navigating to the Git menu tab.
